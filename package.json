@@ -1,0 +1,14 @@
+{
+  "name": "navmesh-path-planner",
+  "version": "1.0.0",
+  "description": "Dependency-free 3D navmesh pathfinding for game NPCs: A* over triangle regions with funnel smoothing, region costs and dynamic blocking.",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
